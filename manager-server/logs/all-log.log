@@ -1,0 +1,24 @@
+[2023-07-15T16:48:07.738] [INFO] info - ==数据库连接成功==
+[2023-07-15T17:08:14.537] [INFO] info - ==数据库连接成功==
+[2023-07-15T17:08:47.963] [INFO] info - get params:{}
+[2023-07-15T17:08:47.963] [INFO] info - post params:{"userName":"admin","userPwd":"123456"})
+[2023-07-15T17:35:40.041] [INFO] info - get params:{}
+[2023-07-15T17:35:40.042] [INFO] info - post params:{})
+[2023-07-15T17:35:40.142] [INFO] info - get params:{}
+[2023-07-15T17:35:40.143] [INFO] info - post params:{})
+[2023-07-15T17:35:40.148] [INFO] info - get params:{}
+[2023-07-15T17:35:40.149] [INFO] info - post params:{})
+[2023-07-15T17:35:57.232] [INFO] info - get params:{}
+[2023-07-15T17:35:57.232] [INFO] info - post params:{})
+[2023-07-15T17:35:57.300] [INFO] info - get params:{}
+[2023-07-15T17:35:57.300] [INFO] info - post params:{})
+[2023-07-15T17:35:57.306] [INFO] info - get params:{}
+[2023-07-15T17:35:57.307] [INFO] info - post params:{})
+[2023-07-15T17:36:00.423] [INFO] info - get params:{}
+[2023-07-15T17:36:00.424] [INFO] info - post params:{"userName":"admin","userPwd":"123456"})
+[2023-07-15T17:36:00.668] [INFO] info - get params:{}
+[2023-07-15T17:36:00.668] [INFO] info - post params:{})
+[2023-07-15T17:36:00.750] [INFO] info - get params:{}
+[2023-07-15T17:36:00.750] [INFO] info - post params:{})
+[2023-07-15T17:36:00.811] [INFO] info - get params:{}
+[2023-07-15T17:36:00.812] [INFO] info - post params:{})
